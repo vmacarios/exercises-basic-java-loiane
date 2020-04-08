@@ -6,7 +6,7 @@ public class Exercises
 {
     public static void main( String[] args )
     {
-        execute(new Exercise09());
+        execute(new Exercise10());
     }
 
     public static void execute(final Exercise exercise) {
